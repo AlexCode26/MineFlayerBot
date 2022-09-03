@@ -1,0 +1,45 @@
+{
+  "Account": {
+    "Username": "MineFlayerBot",
+    "Password": "",
+    "Type": "mojang"
+  },
+
+  "Server": {
+    "IP": "",
+    "Port": 25565,
+    "Version": "1.18.2"
+  },
+
+  "Position": {
+    "Enabled": false,
+    "x": 0, "y": 0, "z": 0
+  },
+
+  "Utils": {
+    "AutoPass": {
+      "Enabled": true,
+      "Password": "12345678"
+    },
+
+    "AntiAfk": {
+      "Enabled": true
+    },
+
+    "ChatMessages": {
+      "Enabled": false,
+      "Repeat": true,
+      "RepeatDelay": 64,
+
+      "Messages": [
+        "",
+        "",
+        ""
+      ]
+    },
+
+    "ChatLog": true,
+    "AutoReconnect": true,
+    "RecconectDelay": 4096
+  }
+}
